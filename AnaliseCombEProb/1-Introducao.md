@@ -81,7 +81,7 @@ Na escola, se começa com combinações, arranhos e permutações, pois são est
   
   <p> &nbsp &nbsp &nbsp <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Question.svg" border="0" alt="Information:" width="25" /> &nbsp Dúvida: Segundo o livro, o resultado é surpreendente. Por que? </p>
 
-  <p> &nbsp &nbsp <img src="https://upload.wikimedia.org/wikipedia/en/5/54/Information.png" border="0" alt="Information:" width="25" /> &nbsp Você pode saber mais sobre o Problema de Buffon clicando <a href="https://pt.wikipedia.org/wiki/Agulha_de_Buffon">aqui</a> e pode ver uma solução usando recursos computacionais clicando <a href="http://wiki.stoa.usp.br/images/5/5a/MEFE_O_problema_das_Agulhas_de_Buffon.pdf">aqui>. </p>
+  <p> &nbsp &nbsp <img src="https://upload.wikimedia.org/wikipedia/en/5/54/Information.png" border="0" alt="Information:" width="25" /> &nbsp Você pode saber mais sobre o Problema de Buffon clicando <a href="https://pt.wikipedia.org/wiki/Agulha_de_Buffon">aqui</a> e pode ver uma solução usando recursos computacionais clicando <a href="http://wiki.stoa.usp.br/images/5/5a/MEFE_O_problema_das_Agulhas_de_Buffon.pdf">aqui</a>. </p>
 
 ## Conjuntos
 
