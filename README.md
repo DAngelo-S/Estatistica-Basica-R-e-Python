@@ -5,7 +5,7 @@ foco em aplicações computacionais.
 
 ## Anotações de Livros
 
-Na pasta AnaliseCombEProb estaram minhas anotações e resoluções de exercícios do livro **Análise Combinatória e Probabilidade**, do Morgado. 
+Na pasta AnaliseCombEProb estarão minhas anotações e resoluções de exercícios do livro **Análise Combinatória e Probabilidade**, do Morgado. 
 Também será possível encontrar links para informações complementares às citadas no livro.
 Em breve, o mesmo será aplicado para o livro do Morettin sobre Estatística Básica.
 
