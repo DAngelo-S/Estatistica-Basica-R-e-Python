@@ -24,3 +24,13 @@ exercícios e, futuramente, dando início ao desenvolvimento de um projeto de ci
 # IMPORTANTE
 Por algum motivo, que ainda não descobri, as imagens das fórmulas matemáticas podem aparecer erradas nas anotações. Para confirmar o conteúdo
 da fórmula, clique na imagem para que uma aba com a imagem correta seja aberta.
+
+# Materiais Utilizados
+* Análise Combinatória e Probabilidade, de Augusto C. O. Morgado, João B. P. de Carvalho, Paulo C. P. Carvalho e Pedro Fernandez.
+* Estatística Básica, de Wilton de O. Bussab e Pedro A. Morettin.
+* <a href="https://www.youtube.com/playlist?list=PLSc7xcwCGNh3Ls-WARhH54WwiqB91Kyak">Curso de Introdução à Teoria das Probabilidades</a>, do Prof. Dr. Francisco Rodrigues.
+* <a href="https://www.youtube.com/playlist?list=PLSc7xcwCGNh1PJrPfLaH4MMjfDl48tmGM">Curso de Ciência de Dados</a>, do Prof. Dr. Francisco Rodrigues.
+* <a href="https://www.youtube.com/playlist?list=PLSc7xcwCGNh1nlUYd3NuFDqw3RjnsOowG">Curso de Estatística Básica</a>, do Prof. Dr. Francisco Rodrigues.
+* <a href="https://www.youtube.com/playlist?list=PLSc7xcwCGNh0jSylDm0QrDJaFTC3vAbvc">Processos Estocásticos</a>, do Prof. Dr. Francisco Rodrigues.
+* Notas de aulas e listas de exercícios, da Prof. Dr. Elisabeti Kira.
+* Curso de extensão do ICMC-USP de Introdução à Teoria das Probabilidades, do Prof. Dr. Francisco Rodrigues.
