@@ -115,12 +115,13 @@ Mais sobre conjuntos e matemática básica <a href="https://www.somatematica.com
 Por exemplo, se A = {1, 2} e B = {1, 2, 3}, resulta que:
 <p align="center"> A x B = {(1,1), (1,2), (1,3), (2,1), (2,2), (2,3)}. </p>
 
-O produto cartesiano de três conjuntos é definido de forma semelhante.
+  O produto cartesiano de três conjuntos é definido de forma semelhante.
 
 **Partição de um conjunto**  
 **Definição:** Seja A um conjunto finito não-vazio. Uma partição de A é uma família de conjuntos A1, A2, ..., Aₖ, todos não-vazios, e tais que:
   1. A₁ ∪ A₂ ... ∪ Aₖ = A
   2. Aᵢ ∩ Aⱼ = ∅  se i ≠ j.
+  
   Para entender melhor, veja <a href="https://www.ime.usp.br/~pf/algoritmos/aulas/footnotes/partition.html">esta</a> explicação.
 
 ## Livros
