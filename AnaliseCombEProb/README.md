@@ -8,6 +8,6 @@ Pedro Fernandez <br>
 </p>
 
 ## Capítulos
-<a href="https://github.com/DAngelo-S/Estatistica-Basica-e-R/blob/master/AnaliseCombEProb/0-Prefacio">Prefácio</a>  
-<a href="https://github.com/DAngelo-S/Estatistica-Basica-e-R/blob/master/AnaliseCombEProb/1-Introducao">Introdução</a>  
+1. <a href="https://github.com/DAngelo-S/Estatistica-Basica-e-R/blob/master/AnaliseCombEProb/0-Prefacio.md">Prefácio</a>  
+2. <a href="https://github.com/DAngelo-S/Estatistica-Basica-e-R/blob/master/AnaliseCombEProb/1-Introducao.md">Introdução</a>  
 
