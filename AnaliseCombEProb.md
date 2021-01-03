@@ -24,7 +24,9 @@ Na escola, se começa com combinações, arranhos e permutações, pois são est
 
 ### Um pouco de História
 * O matemático árabe Al-Karaji conhecia a lei de formação dos elementos do triângulo de Pascal:
+<p align="center">
 <img src="https://bit.ly/3hK0GHq" align="center" border="0" alt="C^{p+1}_{n+1} = C^{p+1}_{n} + C^{p}_{n}" width="144" height="28" />
+</p>
 
 ### Livros Citados ao Longo do Livro
 * Elementos, de Euclides
