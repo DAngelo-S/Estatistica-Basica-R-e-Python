@@ -15,7 +15,7 @@ Este programa é uma adaptação do mostrado na Aula 1, e serve para aplicar a L
 Executanto o programa MoedaAleatoriaGrafico, é possível ver um gráfico que relaciona a frequencia de caras com o número de jogadas em n simulações, sendo n um número inserido pelo usuário. Veja um exemplo com n = 1000:
 
 <p align="center">
-<img src="MoedaAleatoria.png">
+<img src="Imagens/MoedaAleatoria.png">
 </p>
 
 Observando o gráfico, fica ainda mais evidente que, quanto maior o número de jogadas, mais a frequencia tende ao valor esperado.
