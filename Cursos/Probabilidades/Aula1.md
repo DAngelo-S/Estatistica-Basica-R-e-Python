@@ -1,4 +1,4 @@
-#Anotações sobre a Aula 1 - Probabilidades
+# Anotações sobre a Aula 1 - Probabilidades
 
 ## Modelos
 
@@ -16,4 +16,6 @@ Anotações sobre conceitos fundamentais podem ser encontradas na seção <a hre
 
 **Definição frequentista:** A probabilidade de um evento é igual à sua frequência de ocorrências em muitos experimentos.
 
-Ver o capítulo 1 da seção de <a href="https://github.com/DAngelo-S/Estatistica-Basica-R-e-Python/tree/master/Programas">Programas</a>.
+Ver o capítulo 1 da seção de <a href="https://github.com/DAngelo-S/Estatistica-Basica-R-e-Python/tree/master/Cursos/Probabilidades/Programas">Programas</a>.
+
+
