@@ -22,4 +22,4 @@ Observando o gráfico, fica ainda mais evidente que, quanto maior o número de j
 
 Para executar este programa, certifique-se de ter o pacote python3-matplotlib instalado e utilize o comando:
 
-' python3 MoedaAleatoriaGrafico.py'
+` python3 MoedaAleatoriaGrafico.py `
