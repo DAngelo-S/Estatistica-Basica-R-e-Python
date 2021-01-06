@@ -12,6 +12,8 @@ Em um **modelo probabilístico**, as saídas de cada experimento parecem imprevi
 
 Anotações sobre conceitos fundamentais podem ser encontradas na seção <a href="https://github.com/DAngelo-S/Estatistica-Basica-R-e-Python/tree/master/Livros/AnaliseCombEProb">Livros/AnaliseCombEProb</a>.
 
+**Espaço de evento** é frequentemente denotado por Σ, muitas vezes é confundido com o espaço amostral Ω de um experimento, mas são diferentes! O espaço amostral contém todos os resultados possíveis de um experimento, enquanto o espaço de evento contém todos os conjuntos de resultados, ou seja, todos os subconjuntos do espaço amostral. Para saber mais, clique <a href"https://www.statisticshowto.com/event-space-probability/">aqui</a>. 
+
 ## Definição: Probabilidade
 
 **Definição frequentista:** A probabilidade de um evento é igual à sua frequência de ocorrências em muitos experimentos.
