@@ -29,7 +29,7 @@ Na pasta Lista, será possível encontrar as listas de exercícios elaboradas pe
 Por questões de praticidade, a maioria dos exercícios puramente matemáticos serão feitos no meu caderno pessoal. Porém gostaria de deixar aqui minha forte recomendação para que, pelo menos os exercícios mais desafiadores, sejam feitos, a fim de fixar melhor o conteúdo.  
 
 Como me interessei muito por R e por Python, parte dos exercícios serão resolvidos em R e parte em Python.  
-Se quiser um primeiro contato com R, recomendo <a href="https://www.youtube.com/watch?v=_V8eKsto3Ug">este vídeo</a>. Agora, se seu interesse é Python, creio que é possível ir aprendendo Python enquanto aprende estatística seguindo as vídeo aulas anexadas abaixo, em "Materiais Utilizados".  
+Se quiser um primeiro contato com R, recomendo <a href="https://www.youtube.com/watch?v=_V8eKsto3Ug">este vídeo</a>. Agora, se seu interesse é Python, creio que é possível ir aprendendo Python enquanto aprende estatística seguindo as vídeo aulas anexadas abaixo, em "Materiais Utilizados", mas se quiser algo mais concreto, <a href="https://www.coursera.org/learn/ciencia-computacao-python-conceitos">este curso</a> introdutório de Python é gratuíto e bem recomendado.  
 
 ## Em Breve
 Planos relacionados que desejo concretizar em breve:  
