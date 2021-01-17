@@ -55,7 +55,7 @@ P(A) = ∑ᵢ P(A|Bᵢ)P(Bᵢ)
  <img src="/Cursos/Probabilidades/Imagens/Aula3Exercicio1.png" width="700">
 </p>
 
-## Teorema de Bayes
+## <a href="https://pt.wikipedia.org/wiki/Teorema_de_Bayes">Teorema de Bayes</a>
 
 <p align="center">
  <img src="/Cursos/Probabilidades/Imagens/TeoremaDeBayes.jpg" width="200">
