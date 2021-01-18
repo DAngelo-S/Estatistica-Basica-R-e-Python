@@ -1,6 +1,7 @@
 # Variáveis aleatórias
 
 <a href="https://pt.wikipedia.org/wiki/Vari%C3%A1vel_aleat%C3%B3ria"> Veja aqui o que é uma variável aleatória </a>. Ou, preferencialmente, assista a aula 4.  
+Esta definição será mais explorada nas aulas 5 e 6.
   
   
 Dizemos que X é uma variável aleatória se existir uma função f, denominada **função densidade de probabilidade** de X que satisfaça:  
