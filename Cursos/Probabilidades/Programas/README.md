@@ -43,5 +43,5 @@ Compare o gráfico para 10 testes e para 10.000 testes. Novamente é possível o
 **10.000 testes**
 
 <p align="center">
-  <img stc="Imagens/monty10000.png">
+  <img src="Imagens/monty10000.png">
 </p>
