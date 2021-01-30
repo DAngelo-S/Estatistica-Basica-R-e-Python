@@ -16,18 +16,18 @@ Notem que P(X = x) = 0 para qualquer x ∈ R.
 ## Valor esperado
 
 <p align="center">
-  <img src="Imagens/Esperanca.png" width="200">
+  <img src="Imagens/Esperanca.png">
 </p>
 
 **Propriedade**
 <p align="center">
-  <img src="Imagens/EsperancaP1.png" height="50">
+  <img src="Imagens/EsperancaP1.png">
 </p>
 
 ## Variância
 
 <p align="center">
-  <img src="Imagens/Variancia.png" width="200">
+  <img src="Imagens/Variancia.png">
 </p>
 
 Obs.: Esperança e variância serão melhor estudados nas aulas 8, 9 e 10.
